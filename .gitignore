@@ -1,0 +1,39 @@
+# Archivos y carpetas generadas por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+MemoryCaptures/
+Logs/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DS_Store
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.cache
+*.dbmdl
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini
+
+# Archivos de configuración local
+*.local
+*.log
+*.swp
+*.tmp
