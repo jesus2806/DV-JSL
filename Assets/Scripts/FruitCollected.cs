@@ -9,6 +9,9 @@ public class FruitCollected : MonoBehaviour
         {
             GetComponent<SpriteRenderer>().enabled = false;
             gameObject.transform.GetChild(0).gameObject.SetActive(true);
+
+            Object.FindFirstObjectByType<FruitManager>().AllFruitsCollected();
+
             Destroy(gameObject, 0.5f);
         }
         
