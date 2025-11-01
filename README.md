@@ -20,3 +20,8 @@
 [Evidencia paso a paso PDF Part. 5](https://drive.google.com/file/d/1TPZ41VbzoLO0Xkoa-icF3GfcM_gBwUo6/view?usp=sharing)
 
 [Evidencia en video Part. 5](https://drive.google.com/file/d/1duCy0yeNKSVqmreNtDdqLxtE_ZTobyR6/view?usp=sharing)
+
+# 2D-Parte 6
+[Evidencia paso a paso PDF Part. 6](https://drive.google.com/file/d/1jE-c6Cd1bO9FtFrgFIVDTDS_bDKZOrjF/view?usp=sharing)
+
+[Evidencia en video Part. 6](https://drive.google.com/file/d/1kmctGwq3aj-gi6ttXO8EhwTBDbTABvPU/view?usp=sharing)
